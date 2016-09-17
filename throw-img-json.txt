@@ -1,0 +1,45 @@
+/*------ Example Object ------*/
+{
+  "width" : 8,
+  "height" : 8,
+  "precision" : 8,
+  "background_color" : "#ffffff",
+  "pixels" : [
+    { 
+      "order" : 1,
+      "color" : "#ff0000",
+      "original_x" : 4,
+      "original_y" : 4,
+      "new-x" : 12,
+      "new-y" : 53
+    },
+    { 
+      "order" : 2,
+      "color" : "#ff0000",
+      "original_x" : 4,
+      "original_y" : 4,
+      "new-x" : 12,
+      "new-y" : 53
+    },
+    { 
+      "order" : 3,
+      "color" : "#ff0000",
+      "original_x" : 4,
+      "original_y" : 4,
+      "new-x" : 12,
+      "new-y" : 53
+    },
+    { 
+      "order" : 4,
+      "color" : "#ff0000",
+      "original_x" : 4,
+      "original_y" : 4,
+      "new-x" : 12,
+      "new-y" : 53
+    }
+  ],
+  "project_id" : 123,
+  "timestamp" : 1474079942,
+  "user_id" : "d103vasg93SB80D34VkenK28",
+  "security_token" : "askldfj209u0jf2av2fjk029jJSS0"
+}
